@@ -1,1 +1,1 @@
-# gerador_de_senha
+# Gerador de Senhas - Idália Rocha
